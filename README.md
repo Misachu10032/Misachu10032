@@ -14,7 +14,4 @@ I'm a full-stack developer, and I like building interesting stuff in free time.
 
 
 
-
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Misachu10032&show_icons=true)
-![snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/Misachu10032/Misachu10032/blob/output/github-contribution-grid-snake.svg)
